@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+ENV/
+env/
+*.so
+*.weights
+*.pt
+*.onnx
+.env
+*.log
+
+# Hailo
+hailo_tools/*.hef
+hailo_tools/models/
+
+# Large files
+*.mp4
+*.avi
+test_images/
+test_videos/
