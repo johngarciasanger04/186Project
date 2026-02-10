@@ -21,3 +21,6 @@ hailo_tools/models/
 *.avi
 test_images/
 test_videos/
+Command Shortcut
+access.txt
+gstshark_*/
